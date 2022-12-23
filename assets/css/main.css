@@ -272,8 +272,8 @@ section {
 
 .header .btn-getstarted:hover,
 .header .btn-getstarted:focus:hover {
-  color: var(--color-white);
-  background: rgba(var(--color-primary-rgb), 0.85);
+  color: #b02a3f;
+  background: white;
 }
 
 @media (max-width: 1279px) {
