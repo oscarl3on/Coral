@@ -195,7 +195,7 @@ section {
   right: 15px;
   bottom: 15px;
   z-index: 995;
-  background: #b02a3f;
+  background: #3d3e47;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -209,7 +209,7 @@ section {
 }
 
 .scroll-top:hover {
-  background: rgba(var(--color-primary-rgb), 0.85);
+  background: #b02a3f;
   color: var(--color-white);
 }
 
@@ -536,7 +536,7 @@ section {
 
   .mobile-nav-toggle {
     display: block !important;
-    color: var(--color-secondary);
+    color: white;
     font-size: 28px;
     cursor: pointer;
     line-height: 0;
